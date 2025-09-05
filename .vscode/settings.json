@@ -60,8 +60,7 @@
     "*.md": "markdown",
     "testkit.h": "c",
     "fcntl.h": "c",
-    "string.h": "c",
-    "cstdio": "cpp"
+    "string.h": "c"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
